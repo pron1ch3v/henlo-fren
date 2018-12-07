@@ -1,2 +1,5 @@
 # henlo-fren
-testing Git
+
+Humble attempts to merge life from scrap.
+
+
